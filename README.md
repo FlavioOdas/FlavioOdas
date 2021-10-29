@@ -3,7 +3,7 @@
 ## Hello there! ✌
 I'm a Software Developer who loves learning new technologies and developing my skills
 
- 💛  &nbsp; Currently working on **Dell 💙**
+ 💙  &nbsp; Currently working on **Dell**
  <br/> :airplane: &nbsp; Exploring the depths of ReactJS and GraphQL
  <br/> :computer: &nbsp; My technology stack: ReactJS, Typescript, Node.js and GraphQL
  <br/> 
