@@ -1,11 +1,10 @@
 # Flavio Odas Junior &nbsp; [![GitHub followers](https://img.shields.io/github/followers/FlavioOdas?label=Follow&style=social)](https://github.com/FlavioOdas/?tab=follow)
 
 ## Hello there! ✌
-I'm a Software Engineer who's trying to make a difference in the world.
 
  💙  &nbsp; Currently working at **Dell**
- <br/> 💻 &nbsp; My current technology stack: Python, .Net, Microservices
- <br/> ➡️ &nbsp; Also worked with: React.js, Typescript, Node.js, GraphQL
+ <br/> 💻 &nbsp; My current technology stack: Python, Java, Microservices
+ <br/> ➡️ &nbsp; Also working with: React.js, Typescript, Node.js, GraphQL
  <br/> 
 
 ## 🎵
