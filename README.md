@@ -2,9 +2,9 @@
 
 ## Hello there! ✌
 
- 💙  &nbsp; Currently working at **Dell**
- <br/> 💻 &nbsp; My current technology stack: Python, Java, Microservices
- <br/> ➡️ &nbsp; Also working with: React.js, Typescript, Node.js, GraphQL
+ 💙🧡 &nbsp; Currently working at **Coolblue**
+ <br/> 💻 &nbsp; My current technology stack:  React.js, Typescript, Node.js, Microservices
+ <br/> ➡️ &nbsp; Also working with: Python, Java, GraphQL
  <br/> 
 
 ## 🎵
