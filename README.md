@@ -8,7 +8,7 @@
  <br/> 
 
 ## 🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odasflavio&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=odasflavio&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## :email: Contact me:
  [![Linkedin Badge](https://img.shields.io/badge/-Flavio%20Odas%20Junior-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-odas-jr/)](https://www.linkedin.com/in/flavio-odas-jr/) &nbsp; [![Microsoft Outlook Badge](https://img.shields.io/badge/-odasflavio@hotmail.com-0078D4?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:odasflavio@hotmail.com)](mailto:odasflavio@hotmail.com) 
